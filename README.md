@@ -1,2 +1,3 @@
 # coursera_data_science_capstone
-Repository used to store Coursera coursework
+
+This is a repository containing Dillinger James' notebooks/files for the "Applied Data Science Capstone" Coursera course.
